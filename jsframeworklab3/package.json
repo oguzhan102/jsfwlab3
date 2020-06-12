@@ -1,0 +1,24 @@
+{
+  "name": "mynameyes",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzhan102/jsfwlab3.git"
+  },
+  "author": "Turgut Kucukoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzhan102/jsfwlab3/issues"
+  },
+  "homepage": "https://github.com/oguzhan102/jsfwlab3#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
